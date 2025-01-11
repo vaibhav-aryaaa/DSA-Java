@@ -8,10 +8,6 @@ abstract class Animal{
         System.out.println("animal eats");
     }
 
-
-
-
-    
 }
 class Horse extends Animal{
     Horse(){
@@ -26,6 +22,22 @@ class Chicken extends Animal{
         System.out.println("walks on 2 legs");
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 public class abs {
     public static void main(String[] args) {
